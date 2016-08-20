@@ -2,16 +2,18 @@
 
 #### 配置说明：
 
-+ `AccessKey`：密钥组合
-+ `SecretKey`：密钥组合
-+ `Bucket`：空间名
-+ `Domain`：使用哪个域名来访问资源
-+ `Private`：是否为私有空间
-+ `Prefix`：资源前缀，如有填写则只下载匹配的文件，留空则下载所有文件
-+ `SaveAs`：本地保存路径
++ `AccessKey`：AK
++ `SecretKey`：SK
++ `Bucket`：空间
++ `Domain`：域名value="http://obxxxx.bkt.clouddn.com/"
++ `Private`：是否私有
++ `Prefix`：资源前缀
++ `SaveAs`：本地保存路径 示例 value="D:\pic\"
 + `OverWrite`：覆盖本地文件
 
 #### 项目依赖：
 
-+ 本程序依赖 `QiniuBackup.exe.config` 来记录配置信息，请确保运行目录中含有该文件；
-+ 本程序依赖 `LitJson.dll` 来处理 JSON，请确保运行目录中含有该文件；
++ 依赖 `qiniutongbu.exe.config` 来记录配置信息.
++ 依赖 `LitJson.dll` 来处理 JSON，确保目录中含有该文件；
+
+
