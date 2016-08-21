@@ -3,7 +3,7 @@
 + `AccessKey`：AK
 + `SecretKey`：SK
 + `Bucket`：空间
-+ `Domain`：域名value="http://obxxxx.bkt.clouddn.com/"
++ `Domain`：域名 示例  value="http://obxxxx.bkt.clouddn.com/"
 + `Private`：是否私有
 + `Prefix`：资源前缀
 + `SaveAs`：本地保存路径 示例 value="D:\pic\"
