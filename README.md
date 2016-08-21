@@ -14,10 +14,10 @@
 +  `LitJson.dll` 来处理 JSON，确保目录中含有该文件；
 
 参考资料
-http://developer.qiniu.com/code/v7/sdk/python.html
-https://github.com/qiniu/python-sdk
-https://github.com/wzyuliyang/qiniu4blog
-https://github.com/abelyao/qiniu-backup
++ http://developer.qiniu.com/code/v7/sdk/python.html
++ https://github.com/qiniu/python-sdk
++ https://github.com/wzyuliyang/qiniu4blog
++ https://github.com/abelyao/qiniu-backup
 
 
 
