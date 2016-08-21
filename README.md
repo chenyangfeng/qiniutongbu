@@ -14,9 +14,9 @@
 +  `LitJson.dll` 来处理 JSON，确保目录中含有该文件；
 
 参考资料
-+ http://developer.qiniu.com/code/v7/sdk/python.html
++ http://developer.qiniu.com/code/v6/sdk/csharp.html
++ https://github.com/qiniu/csharp-sdk
 + https://github.com/abelyao/qiniu-backup
-+ https://github.com/qiniu/python-sdk
 + https://github.com/wzyuliyang/qiniu4blog
 
 
